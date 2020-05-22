@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33179973-27ed-4368-9622-273a7b2999a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TBomb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TBomb.iml" afterDir="false" />
-    </list>
+    <list default="true" id="33179973-27ed-4368-9622-273a7b2999a9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +16,10 @@
   <component name="ProjectId" id="1W3qcoyDolkMHLfq91n5yPCxjkW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -39,10 +37,11 @@
       <workItem from="1583174127387" duration="7000" />
       <workItem from="1583174362060" duration="2000" />
       <workItem from="1585136075754" duration="3000" />
+      <workItem from="1590164616762" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </project>
