@@ -4,7 +4,13 @@
 
 import base64
 import codecs
-###base64.b64encode(bytes(bomber1, 'utf-8'))
-# base64.b64encode(bytes('your string', 'utf-8'))
-base64.b64decode('bomber.txt')
-codecs.decode('bomber.txt')
+import bomber
+base64.b64decode(bytes(bomber.txt, 'utf-8'))
+# base64.b64decode(bytes('your string', 'utf-8'))
+# base64.b64decode('bomber.txt')
+# codecs.decode('bomber.txt')
+
+#
+#
+# import base64
+# base64.b16decode(bytes('your string', 'utf-8'))

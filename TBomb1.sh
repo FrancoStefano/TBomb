@@ -4,7 +4,7 @@ echo -e "\e[4;31m SpeedX Productions !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m TBomb \e[0m"
 echo "Press Enter To Continue"
-read a1
+#read a1
 #if [[ -s update.speedx ]];then
 #echo "All Requirements Found...."
 #else
@@ -63,8 +63,8 @@ elif [ $ch -eq 3 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
-git clone https://github.com/FrancoStefano/TBomb.git
-if [[ -s TBomb/TBomb.sh ]];then
+git clone https://github.com/FrancoStefano/TBomb
+if [[ -s TBomb/TBomb1.sh ]];then
 cd TBomb
 cp -r -f * .. > temp
 cd ..
